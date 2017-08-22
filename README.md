@@ -1,3 +1,4 @@
 # hello-world
 Begining of Something New
-New to Programing. Hoping to develop new skills in Automation.
+I am New to Programing. 
+I am Hoping to develop new skills in Automation.
